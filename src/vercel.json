@@ -1,6 +1,5 @@
 {
-    "rewrites":[{
-        "sourec":"/(.*)",
-        "destination":"/index.html"
-    }]
-}
+    "rewrites": [
+      { "source": "/(.*)", "destination": "/" }
+    ]
+  }
